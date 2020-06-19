@@ -1,0 +1,25 @@
+_repo: Laatokan-kalastajat-3-naytoksinen-kansannaytelma-lauluineen-ja-tansseineen_62388
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kainulainen, Ruupert
+    birthdate: 1886
+    deathdate: 1962
+    gutenberg_agent_id: '51915'
+    url: http://www.gutenberg.org/2009/agents/51915
+    wikipedia: https://fi.wikipedia.org/wiki/Ruupert_Kainulainen
+description: ''
+gutenberg_issued: '2020-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62388'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Finnish drama -- 20th century'
+- GITenberg
+title: 'Laatokan kalastajat: 3-näytöksinen kansannäytelmä lauluineen ja tansseineen'
+url: http://www.gutenberg.org/ebooks/62388
